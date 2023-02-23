@@ -1,4 +1,3 @@
-[![MasterHead](world_dom_cat.png)](world_dom_cat.png)
 <h1 align="center">Hi 👋, I'm Ros</h1>
 <h3 align="center">Civil servant, coder, and aspiring software engineer</h3>
 <img align="right" alt="my avatar" width="300" src="Screenshot 2023-02-23 at 11.39.49.png">
