@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosalindhook&label=Profile%20views&color=0e75b6&style=flat" alt="rosalindhook" /> </p>
 
-- 🔭 I’m currently working on [my HyperionDev bootcamp portfolio projects](https://github.com/RosalindHook/finalCapstone)
+- 🔭 I’m currently working on the Code First Girls Degree programme.
 
-- 🌱 I’m currently learning **Javascript, React, SQL**
+- 🌱 I’m currently learning about **APIs and using Git and Github collaboratively**
 
-- 👯 I’m looking to collaborate on **a community treasure hunt built in Javascript and using GPS**
+- 👯 I’m looking to collaborate on **group projects - building an API**
 
 - 🤝 I’m looking for help with [adding a frontend to some of my Python projects](https://github.com/RosalindHook/capstone-task-manager)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **rosalind@gmail.com**
+- 📫 How to reach me **rosalind.hook@gmail.com**
 
 - 📄 Know about my experiences [https://rosalindhook.github.io/portfolio/](https://rosalindhook.github.io/portfolio/)
 
